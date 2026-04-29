@@ -1,1 +1,1 @@
-# devops-internship
+# decodelabs_tasks
